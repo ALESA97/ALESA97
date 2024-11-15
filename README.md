@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandra!
-- ![image](https://github.com/user-attachments/assets/e0e90f24-9bdd-4c88-a8b8-1f653791676f) https://es.linkedin.com/in/alexandra-teodora-sofronie-3bbb36161
+- ![image](https://es.linkedin.com/in/alexandra-teodora-sofronie-3bbb36161) https://es.linkedin.com/in/alexandra-teodora-sofronie-3bbb36161
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
