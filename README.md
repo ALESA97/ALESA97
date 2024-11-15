@@ -43,7 +43,7 @@ Aquí algunos de mis proyectos favoritos en GitHub:
 
 ### 🌍 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie-3bbb36161)  
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tu_email@example.com)
 
