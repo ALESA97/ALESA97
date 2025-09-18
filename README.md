@@ -16,10 +16,9 @@
 
   [![JOEL](https://jo-el.es/static/icons/logo.svg)](https://jo-el.es/user)
 
-  <p>
-    Mi LinkedIn:<br>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie-3bbb36161)
-  </p>
+ <p> 
+   Mi Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie-3bbb36161)
+ </p>
 
   <p>Mis estadísticas de GitHub:</p>
   <p align="center">
