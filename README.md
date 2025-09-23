@@ -20,7 +20,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALESA97&layout=compact&theme=synthwave&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)
 
 ## 💻 Lenguajes y Herramientas
-
+<span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</span>
 
 ## 🚀 Proyectos
 
@@ -36,14 +37,11 @@
 
 **Primer juego en Python**
 
-![Breakout](https://img.shields.io/badge/-Breakout-3776AB?style=for-the-badge&logo=python&logoColor=black)[![GitHub](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/Python-Game)
-
+![Breakout](https://img.shields.io/badge/-Breakout-3776AB?style=for-the-badge&logo=python&logoColor=black)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/Python-Game)
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie-3bbb36161)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesaclash97@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Alesa%238646-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-
-  
 
