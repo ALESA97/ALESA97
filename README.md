@@ -4,9 +4,9 @@
     <img src="https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif">
   </p>
 
-## Sobre mí:
+## 🎯 Sobre mí:
   
-  🎓 **Formación**: Asesora Financiera certiftitulada + estudiando Desarrollo de aplicaciones multiplatadorma
+  🎓 **Formación**: Asesora Financiera titulada + estudiando Desarrollo de Aplicaciones Multiplataforma
   
   🌍 **Idiomas**: 
       <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1f4.svg" height="16">
