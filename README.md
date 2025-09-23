@@ -4,7 +4,7 @@
     <img src="https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif">
   </p>
 
-## 🎯 Sobre mí:
+## 🎯 Sobre mí
   
   🎓 **Formación**: Asesora Financiera titulada y actualmente estudiando Desarrollo de Aplicaciones Multiplataforma
   
@@ -31,24 +31,36 @@
 
 ## 💻 Lenguajes
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=black)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+</p>
+
 
 ## 🛠️ Herramientas
 
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-  ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</p>
+
+## 🚀 Proyectos
+
+[![Porfolio](https://img.shields.io/badge/Porfolio-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/MiPorfolio)
+
+**Primer juego en Python**
+
+![Breakout](https://img.shields.io/badge/-Breakout-3776AB?style=for-the-badge&logo=python&logoColor=black)[![GitHub](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/Python-Game)
 
 
 ## 📫 Mis perfiles
 
 ![JOEL](https://img.shields.io/badge/-JOEL-F7DF1E?style=for-the-badge&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-teodora-sofronie-3bbb36161)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesaclash97@gmail.com)
   
 
