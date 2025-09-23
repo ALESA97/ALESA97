@@ -1,8 +1,6 @@
 # Hi, I'm Alexandra! 👋
 
-  <p align=center>
-    <img src="https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif">
-  </p>
+![alt text](https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif)
 
 ## 🎯 Sobre mí
   
@@ -17,9 +15,9 @@
 
 ## 📊 GitHub Stats 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ALESA97&theme=synthwave&hide_border=true&ring=00D9FF&fire=A855F7" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api?username=ALESA97&show_icons=true&theme=synthwave&hide_border=true&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALESA97&layout=compact&theme=synthwave&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" alt="Top Languages">
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ALESA97&theme=synthwave&hide_border=true&ring=00D9FF&fire=A855F7)
+![Stats](https://github-readme-stats.vercel.app/api?username=ALESA97&show_icons=true&theme=synthwave&hide_border=true&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&bg_color=0d1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALESA97&layout=compact&theme=synthwave&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)
 
 ## 💻 Lenguajes y Herramientas
 
